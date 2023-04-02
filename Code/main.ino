@@ -1,6 +1,5 @@
 ////////////////////////////////////////
 /*
-   Author: Emre Şahin
    Project: Thief Alarm System
    Date: 20.01.2019
    Version: v1.2
